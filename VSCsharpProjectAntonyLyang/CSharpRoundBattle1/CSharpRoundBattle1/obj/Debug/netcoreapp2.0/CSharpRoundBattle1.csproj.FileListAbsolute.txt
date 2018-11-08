@@ -1,0 +1,11 @@
+F:\VSCsharpProjectAntonyLyang\CSharpRoundBattle1\CSharpRoundBattle1\bin\Debug\netcoreapp2.0\CSharpRoundBattle1.deps.json
+F:\VSCsharpProjectAntonyLyang\CSharpRoundBattle1\CSharpRoundBattle1\bin\Debug\netcoreapp2.0\CSharpRoundBattle1.runtimeconfig.json
+F:\VSCsharpProjectAntonyLyang\CSharpRoundBattle1\CSharpRoundBattle1\bin\Debug\netcoreapp2.0\CSharpRoundBattle1.runtimeconfig.dev.json
+F:\VSCsharpProjectAntonyLyang\CSharpRoundBattle1\CSharpRoundBattle1\bin\Debug\netcoreapp2.0\CSharpRoundBattle1.dll
+F:\VSCsharpProjectAntonyLyang\CSharpRoundBattle1\CSharpRoundBattle1\bin\Debug\netcoreapp2.0\CSharpRoundBattle1.pdb
+F:\VSCsharpProjectAntonyLyang\CSharpRoundBattle1\CSharpRoundBattle1\obj\Debug\netcoreapp2.0\CSharpRoundBattle1.csprojAssemblyReference.cache
+F:\VSCsharpProjectAntonyLyang\CSharpRoundBattle1\CSharpRoundBattle1\obj\Debug\netcoreapp2.0\CSharpRoundBattle1.csproj.CoreCompileInputs.cache
+F:\VSCsharpProjectAntonyLyang\CSharpRoundBattle1\CSharpRoundBattle1\obj\Debug\netcoreapp2.0\CSharpRoundBattle1.AssemblyInfoInputs.cache
+F:\VSCsharpProjectAntonyLyang\CSharpRoundBattle1\CSharpRoundBattle1\obj\Debug\netcoreapp2.0\CSharpRoundBattle1.AssemblyInfo.cs
+F:\VSCsharpProjectAntonyLyang\CSharpRoundBattle1\CSharpRoundBattle1\obj\Debug\netcoreapp2.0\CSharpRoundBattle1.dll
+F:\VSCsharpProjectAntonyLyang\CSharpRoundBattle1\CSharpRoundBattle1\obj\Debug\netcoreapp2.0\CSharpRoundBattle1.pdb

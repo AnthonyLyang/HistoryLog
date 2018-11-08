@@ -1,0 +1,11 @@
+F:\VSCsharpProjectAntonyLyang\PokemonManager1\PokemonManager1\bin\Debug\netcoreapp2.0\PokemonManager1.deps.json
+F:\VSCsharpProjectAntonyLyang\PokemonManager1\PokemonManager1\bin\Debug\netcoreapp2.0\PokemonManager1.runtimeconfig.json
+F:\VSCsharpProjectAntonyLyang\PokemonManager1\PokemonManager1\bin\Debug\netcoreapp2.0\PokemonManager1.runtimeconfig.dev.json
+F:\VSCsharpProjectAntonyLyang\PokemonManager1\PokemonManager1\bin\Debug\netcoreapp2.0\PokemonManager1.dll
+F:\VSCsharpProjectAntonyLyang\PokemonManager1\PokemonManager1\bin\Debug\netcoreapp2.0\PokemonManager1.pdb
+F:\VSCsharpProjectAntonyLyang\PokemonManager1\PokemonManager1\obj\Debug\netcoreapp2.0\PokemonManager1.csproj.CoreCompileInputs.cache
+F:\VSCsharpProjectAntonyLyang\PokemonManager1\PokemonManager1\obj\Debug\netcoreapp2.0\PokemonManager1.AssemblyInfoInputs.cache
+F:\VSCsharpProjectAntonyLyang\PokemonManager1\PokemonManager1\obj\Debug\netcoreapp2.0\PokemonManager1.AssemblyInfo.cs
+F:\VSCsharpProjectAntonyLyang\PokemonManager1\PokemonManager1\obj\Debug\netcoreapp2.0\PokemonManager1.dll
+F:\VSCsharpProjectAntonyLyang\PokemonManager1\PokemonManager1\obj\Debug\netcoreapp2.0\PokemonManager1.pdb
+F:\VSCsharpProjectAntonyLyang\PokemonManager1\PokemonManager1\obj\Debug\netcoreapp2.0\PokemonManager1.csprojAssemblyReference.cache

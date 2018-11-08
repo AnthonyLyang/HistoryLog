@@ -1,0 +1,7 @@
+F:\VSCsharpProjectAntonyLyang\DNDConsoleAlpha1\DNDConsoleAlpha1\obj\Debug\DNDConsoleAlpha1.csprojAssemblyReference.cache
+F:\VSCsharpProjectAntonyLyang\DNDConsoleAlpha1\DNDConsoleAlpha1\obj\Debug\DNDConsoleAlpha1.csproj.CoreCompileInputs.cache
+F:\VSCsharpProjectAntonyLyang\DNDConsoleAlpha1\DNDConsoleAlpha1\bin\Debug\DNDConsoleAlpha1.exe.config
+F:\VSCsharpProjectAntonyLyang\DNDConsoleAlpha1\DNDConsoleAlpha1\bin\Debug\DNDConsoleAlpha1.exe
+F:\VSCsharpProjectAntonyLyang\DNDConsoleAlpha1\DNDConsoleAlpha1\bin\Debug\DNDConsoleAlpha1.pdb
+F:\VSCsharpProjectAntonyLyang\DNDConsoleAlpha1\DNDConsoleAlpha1\obj\Debug\DNDConsoleAlpha1.exe
+F:\VSCsharpProjectAntonyLyang\DNDConsoleAlpha1\DNDConsoleAlpha1\obj\Debug\DNDConsoleAlpha1.pdb
